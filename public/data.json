@@ -31,5 +31,9 @@
         "username": "@rdnine",
         "name": "Rafael Duarte",
         "job": "Full-Stack Web Developer"
+    },
+    "app": {
+        "name": "Rafael Duarte | Web Developer & Tech Lover",
+        "logo": "https://imgur.com/4rXpFA3.png"
     }
 }
