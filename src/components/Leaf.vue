@@ -36,6 +36,7 @@ a {
     background-color: #FEDA6A;
     transition: all ease 250ms;
     padding: 20px 30px;
+    border-radius: 50px;
 }
 
 .under {
@@ -50,6 +51,7 @@ a {
     background-color: #EF476F;
     transition: all ease 250ms;
     padding: 20px 30px;
+    border-radius: 50px;
 }
 
 a:hover .top {

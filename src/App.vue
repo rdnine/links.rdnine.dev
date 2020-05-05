@@ -33,7 +33,7 @@ export default {
 </script>
 
 <style>
-body {margin: 0; background-color: #FEFFFF; box-sizing: border-box; font-family: 'Roboto', sans-serif;}
+body {margin: 0; background-color: #17242A; box-sizing: border-box; font-family: 'Roboto', sans-serif;}
 
 a {font-family: 'Roboto', sans-serif; font-weight: 700; font-size: 20px; line-height: 20px;}
 
@@ -42,8 +42,8 @@ a {font-family: 'Roboto', sans-serif; font-weight: 700; font-size: 20px; line-he
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #feffff;
-  background-color: #06d6a0;
+  color: #17242A;
+  background-color: #06D6A0;
   position: relative;
   width: 100%;
   max-width: 560px;

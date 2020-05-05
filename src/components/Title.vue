@@ -6,6 +6,7 @@
         <span>{{ username }}</span>
         <div class="description">
             <h1>{{ name }}</h1>
+            <span class="separator"></span>
             <h2>{{ job }}</h2>
         </div>
     </div>
@@ -47,6 +48,17 @@ h1, h2, p, span {color: #17242A;}
 
 .description {
     margin-top: 15px;
+}
+
+.separator {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 30px;
+    height: 2px;
+    background-color: #17242A;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 </style>
