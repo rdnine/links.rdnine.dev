@@ -1,12 +1,21 @@
 <template>
-  <div id="app">
-  </div>
+  <div id="app"></div>
 </template>
 
 <script>
+import Title from "./components/Title";
+import Leaf from "./components/Leaf";
+import info from "../public/data.json";
 
 export default {
-  name: "App"
+  name: "App",
+  data() {
+    return info;
+  },
+  components: {
+    Title,
+    Leaf
+  }
 };
 </script>
 
