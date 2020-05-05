@@ -1,0 +1,30 @@
+{
+    "links": [
+        {
+            "href": "https://www.rdnine.dev/",
+            "label_top": "Website",
+            "label_under": "Magic 😮"
+        },
+        {
+            "href": "mailto:rafael@rdnine.dev",
+            "label_top": "Email",
+            "label_under": "Mail Me!"
+        },
+        {
+            "href": "https://instagram.com/rdnine.dev",
+            "label_top": "Instagram",
+            "label_under": "Follow my Adventure 🚀"
+        },
+        {
+            "href": "https://www.linkedin.com/in/rafaeljfduarte/",
+            "label_top": "Linkedin",
+            "label_under": "It's Professional!"
+        }
+    ],
+    "title": {
+        "img": "https://imgur.com/SCulelN.png",
+        "username": "@rdnine",
+        "name": "Rafael Duarte",
+        "job": "Full-Stack Web Developer"
+    }
+}
